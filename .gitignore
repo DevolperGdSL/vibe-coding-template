@@ -9,6 +9,9 @@ CLAUDE.md
 auto-imports.d.ts
 components.d.ts
 
+data/*.sqlite
+data/*.sqlite-*
+
 .DS_Store
 .vscode/*
 !.vscode/extensions.json
